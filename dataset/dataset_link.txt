@@ -1,0 +1,4 @@
+dataset link :
+
+https://www.kaggle.com/disisbig/hindi-text-short-and-large-summarization-corpus
+https://www.kaggle.com/disisbig/hindi-text-short-summarization-corpus

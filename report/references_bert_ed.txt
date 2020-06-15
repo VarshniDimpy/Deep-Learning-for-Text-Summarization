@@ -1,0 +1,13 @@
+References :
+
+https://huggingface.co/blog/how-to-generate
+
+https://huggingface.co/transformers/model_doc/encoderdecoder.html
+
+http://jalammar.github.io/illustrated-bert/
+
+https://huggingface.co/blog/how-to-train
+
+Read this one :
+
+https://medium.com/analytics-vidhya/deep-reinforcement-learning-deeprl-for-abstractive-text-summarization-made-easy-tutorial-9-c6914999c76c
